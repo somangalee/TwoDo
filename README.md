@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TwoDo
 COMING SOON
 
