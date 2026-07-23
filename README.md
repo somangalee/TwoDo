@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TwoDo
 COMING SOON
 
@@ -14,9 +15,9 @@ COMING SOON
 ### Languages & Tools
 - React
 - Vite
+- TypeScipt
+- TailWind CSS
 - JavaScript 
-- HTML
-- CSS
 
 
 ## 📂 Project Structure
@@ -65,8 +66,8 @@ src/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/somangalee/PortfolioWebsite.git
-cd PortfolioWebsite
+git clone https://github.com/somangalee/TwoDo.git
+cd TwoDo
 ```
 
 ### Install dependencies
