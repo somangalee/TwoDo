@@ -4,9 +4,11 @@ COMING SOON
 ## Live Demo
 - 📄 **Live Demo:** 
 
+<!-- 
 <p align = "center">
   <img src="https://github.com/user-attachments/assets/5b4c9c83-785a-4672-85f3-4aeabb68ca6e" width = "600" />
 </p>
+-->
 
 
 ## Tech Stack
@@ -92,5 +94,4 @@ http://localhost:5173
 
 Some interactive UI components used in this project are based on open-source components from:
 
-- **ReactBits** – https://www.reactbits.dev/
-- ReactBits GitHub Repository – https://github.com/DavidHDev/react-bits
+- 
