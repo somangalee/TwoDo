@@ -1,5 +1,6 @@
 # TwoDo
 COMING SOON
+I've made it as a website first to layout the concept.
 
 ## Live Demo
 - 📄 **Live Demo:** 
